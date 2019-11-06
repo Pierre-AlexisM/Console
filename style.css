@@ -19,7 +19,7 @@ h2:hover {
 image {
   visibility: hidden;
   width: 1px;
-  height: 1px;
+  height: 2px;
 }
 
 image:hover {

@@ -11,5 +11,15 @@ h2 {
 }
 
 h2:hover {
-  transform: rotate(20deg);
+  transform: rotate(2deg);
+  color: yellow;
+  size: 30px;
+}
+
+div {
+  visibility: hidden;
+}
+
+div:hover {
+  visibility: visible;
 }

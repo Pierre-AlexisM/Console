@@ -16,10 +16,14 @@ h2:hover {
   size: 30px;
 }
 
-div {
+image {
   visibility: hidden;
+  width: 1px;
+  height: 2px;
 }
 
-div:hover {
+image:hover {
   visibility: visible;
+  width: 200px;
+  height: 200px;
 }

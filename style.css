@@ -3,5 +3,9 @@ body {
 }
 
 h2 {
-  color: pink;
+  color: red;
+}
+
+h2:hover {
+  transform: rotate(20deg);
 }
